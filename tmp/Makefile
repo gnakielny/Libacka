@@ -11,11 +11,11 @@
 # use make all and make install to install the examples
 #
 
-ifeq ($(wildcard ./Makefile.inc), )
+ifeq ($(wildcard ../RF24/Makefile.inc), )
 	$(error Configuration not found. Run ./configure first)
 endif
 
-include ./Makefile.inc
+include ../RF24/Makefile.inc
 
 # define all programs
 PROGRAMS = sygnal sygnalx
