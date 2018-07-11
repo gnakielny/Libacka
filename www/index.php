@@ -121,7 +121,7 @@
 			</div>
 			<div id="footer">
 				<div class="footer-wrapper">
-					CebulaPi Command Center v. 0.1 &copy; <?php echo date("Y"); ?>, Created by: Krzyzak
+					CebulaPi Command Center v. 1.0 &copy; <?php echo date("Y"); ?>, Created by: Krzyzak
 				</div>
 			</div>
 		</div>
